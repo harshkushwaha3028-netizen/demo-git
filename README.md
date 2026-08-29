@@ -1,2 +1,3 @@
 # demo-git
-learn git
+learn git<br>
+author: harsh 
