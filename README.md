@@ -1,3 +1,4 @@
 # demo-git
 learn git<br>
-author: harsh 
+
+author: harsh (kushwaha)
